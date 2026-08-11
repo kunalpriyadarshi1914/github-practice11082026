@@ -1,0 +1,12 @@
+nsgs={
+    nsgprac1={
+        name="shivansg3"
+        location="centralindia"
+        resource_group_name="shiva_rg3"
+    }
+    nsgprac2={
+        name="shivansg4"
+        location="centralindia"
+        resource_group_name="shiva_rg4"
+    }
+}
